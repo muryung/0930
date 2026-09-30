@@ -1,0 +1,25 @@
+/* 동물 설명 영역 */
+section {
+    width: 50%;
+    margin: 20px auto;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid gray;
+    border-radius: 5px;
+    text-align: center;
+    padding: 15px 0;
+}
+
+section img {
+    width: 90%;
+}
+
+section .button {
+    background-color: rgb(230, 139, 103);
+    margin: 10px 0;
+    padding: 5px 5px;
+    color: white;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    width: 25%;
+}
