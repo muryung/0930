@@ -9,10 +9,16 @@ html {
 }
 
 header {
-    background-color: rgb(255, 228, 152);
+    background-color: rgb(255, 214, 152);
     padding: 10px 30px;
     text-align: center;
-    color: white;
+    color: rgb(255, 253, 253);
+    width: 50%;
+    margin: 0 auto;
+}
+
+header h1 {
+    font-weight: 400;
 }
 
 /* 메뉴  영역 */
